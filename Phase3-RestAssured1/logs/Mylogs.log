@@ -1,0 +1,4 @@
+[INFO ] 2023-11-10 12:27:22.839 [main] Assignment001 -  this is information message
+[ERROR] 2023-11-10 12:27:22.843 [main] Assignment001 -  this is an error message
+[FATAL] 2023-11-10 12:27:22.843 [main] Assignment001 -  this is a fatal messgae
+[WARN ] 2023-11-10 12:27:22.843 [main] Assignment001 -  this is a warning message
